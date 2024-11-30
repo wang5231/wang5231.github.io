@@ -1,0 +1,43 @@
+enabled: true
+id: "portfolio"
+
+content:
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "Twilight Whispers"
+    title: "Personal Slogan"
+    text: "A sensual body yearning for freedom."
+
+    buttons: 
+      - label: "See live"
+        url: "#"
+
+      - label: "Read more"
+        url: "#"
+
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "Timeless Bonds"
+    title: "Personal CV"
+    text: "My name is GaoYufei, and you can call me Phoebe. I’m 20 years old. My personality is cheerful and outgoing. I like travelling, playing chess and also like quiet family-life atmosphere.Currently, majoring in Business Administration in Macao University of Science and Technology. "
+
+    buttons: 
+      - label: "See live"
+        url: "#"
+
+      - label: "Read more"
+        url: "#"
+
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "Solitude Speaks"
+    title: "Personal experience"
+    text: "Art Troupe
+Study the platform mechanism, build an external publicity platform in line with the transfer, and publicize Chinese traditional culture to the public.
+Join the National Flag Honour Guard
+           Student Union
+Work in the Finance Department, Assisted the Student Union in preparing financial statements"
+
+    buttons: 
+      - label: "See live"
+        url: "#"
+
+      - label: "Read more"
+        url: "#"

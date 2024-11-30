@@ -1,0 +1,27 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Skills"
+  text: "Dream big,achieve greater"
+  cards:
+    - image: "images/services-web-development.png"
+      title: "Language competence"
+      text: "Be proficient in English expression and can basically really oral English communication."
+      button:
+        label: "80%"
+        url: "#"
+
+    - image: "images/services-web-development.png"
+      title: "Computer ability"
+      text: "Be proficient in using the Office system and simply use the Hugo system to create Web pages."
+      button:
+        label: "70%"
+        url: "#"
+
+    - image: "images/services-web-development.png"
+      title: "Interpersonal skills"
+      text: "Able to communicate with people without barriers and have strong team execution ability."
+      button:
+        label: "80%"
+        url: "#"

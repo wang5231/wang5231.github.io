@@ -1,0 +1,24 @@
+enabled: true
+id: "testimonials"
+
+content:
+  title: "Labels"
+
+  featured:
+  
+    text: "Love and be proficient in playing various board games, like card games,Texas hold'em poker,go,mahjong,uno,Live Action role Playing and so on.It can also increase my strategy thinking and help me balance the allocation of resources."
+    client: "TABLETOP GAMER"
+
+  list:
+    - text: "I believe that every beautiful thing and person in this world deserves a song. Whether it's singing for loved ones on special occasions or performing to bring joy to others, each opportunity to sing is meaningful.Singing can be a way to express love, share joy, or even offer comfort."
+      client: "SINGING LOVER"
+
+    - text: "Traveling is one of my greatest passions, as it allows me to explore new cultures and broaden my horizons. For me, a vacation is the perfect opportunity to relax, rechange, and escape from the hustle and bustle of everyday life."
+      client: "TRAVELER"
+
+    - text: "Enjoying the delicious food is happy, but the time of waiting for it to come out is the happiest.In this world, only love and food can't be let down. If love has already been let down to much, food can't be let down again."
+      client: "GREEDY GUTS"
+
+    - text: "Constellation is my niche hobby. I'm Taurus. The pressure to create a beautiful work of art is intense for Taurus, who can go through several drafts of each sentence before finding the just-right words to get their points across accurately."
+      client: "Reading serves as a portable sanctuary, offering solace and tranquility amidst the sea of words. Through reading, I gain a deeper understanding of the world's diversity. Each book is a window that opens uo to unknown worlds, fostering growth and continuous learning."
+      client: "BOOK LOVER"
