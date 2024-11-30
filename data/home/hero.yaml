@@ -3,7 +3,12 @@ id: "hero"
 
 content:
   title: "WELCOME TO MY WORLD"
-  text: "My name is GaoYufei, and you can call me Phoebe. I’m 20 years old. I come from Hebei Province. My MBTI is ESFJ and my personality is cheerful and outgoing. I like travelling, playing chess and also like quiet family-life atmosphere. Currently, majoring in Business Administration in Macao University of Science and Technology."
+  text: "Name:Phoebe(高雨菲)
+  Age:20
+  MBTI:ESFJ
+  Address:QinHuangDao,Hebei
+  Email:gao189657@gmail.com"
+
 
   buttonPrimary:
     label: "How to find"
